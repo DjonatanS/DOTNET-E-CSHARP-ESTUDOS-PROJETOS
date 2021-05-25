@@ -1,0 +1,16 @@
+C:\C#OO\Classes e Metodos\Classes e Metodos\bin\Debug\net5.0\Classes e Metodos.exe
+C:\C#OO\Classes e Metodos\Classes e Metodos\bin\Debug\net5.0\Classes e Metodos.deps.json
+C:\C#OO\Classes e Metodos\Classes e Metodos\bin\Debug\net5.0\Classes e Metodos.runtimeconfig.json
+C:\C#OO\Classes e Metodos\Classes e Metodos\bin\Debug\net5.0\Classes e Metodos.runtimeconfig.dev.json
+C:\C#OO\Classes e Metodos\Classes e Metodos\bin\Debug\net5.0\Classes e Metodos.dll
+C:\C#OO\Classes e Metodos\Classes e Metodos\bin\Debug\net5.0\ref\Classes e Metodos.dll
+C:\C#OO\Classes e Metodos\Classes e Metodos\bin\Debug\net5.0\Classes e Metodos.pdb
+C:\C#OO\Classes e Metodos\Classes e Metodos\obj\Debug\net5.0\Classes e Metodos.csprojAssemblyReference.cache
+C:\C#OO\Classes e Metodos\Classes e Metodos\obj\Debug\net5.0\Classes e Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#OO\Classes e Metodos\Classes e Metodos\obj\Debug\net5.0\Classes e Metodos.AssemblyInfoInputs.cache
+C:\C#OO\Classes e Metodos\Classes e Metodos\obj\Debug\net5.0\Classes e Metodos.AssemblyInfo.cs
+C:\C#OO\Classes e Metodos\Classes e Metodos\obj\Debug\net5.0\Classes e Metodos.csproj.CoreCompileInputs.cache
+C:\C#OO\Classes e Metodos\Classes e Metodos\obj\Debug\net5.0\Classes e Metodos.dll
+C:\C#OO\Classes e Metodos\Classes e Metodos\obj\Debug\net5.0\ref\Classes e Metodos.dll
+C:\C#OO\Classes e Metodos\Classes e Metodos\obj\Debug\net5.0\Classes e Metodos.pdb
+C:\C#OO\Classes e Metodos\Classes e Metodos\obj\Debug\net5.0\Classes e Metodos.genruntimeconfig.cache

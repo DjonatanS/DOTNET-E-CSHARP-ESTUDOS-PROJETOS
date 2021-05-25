@@ -1,0 +1,16 @@
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\bin\Debug\net5.0\SistemaEstoque-OO.exe
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\bin\Debug\net5.0\SistemaEstoque-OO.deps.json
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\bin\Debug\net5.0\SistemaEstoque-OO.runtimeconfig.json
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\bin\Debug\net5.0\SistemaEstoque-OO.runtimeconfig.dev.json
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\bin\Debug\net5.0\SistemaEstoque-OO.dll
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\bin\Debug\net5.0\ref\SistemaEstoque-OO.dll
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\bin\Debug\net5.0\SistemaEstoque-OO.pdb
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\obj\Debug\net5.0\SistemaEstoque-OO.csprojAssemblyReference.cache
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\obj\Debug\net5.0\SistemaEstoque-OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\obj\Debug\net5.0\SistemaEstoque-OO.AssemblyInfoInputs.cache
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\obj\Debug\net5.0\SistemaEstoque-OO.AssemblyInfo.cs
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\obj\Debug\net5.0\SistemaEstoque-OO.csproj.CoreCompileInputs.cache
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\obj\Debug\net5.0\SistemaEstoque-OO.dll
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\obj\Debug\net5.0\ref\SistemaEstoque-OO.dll
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\obj\Debug\net5.0\SistemaEstoque-OO.pdb
+C:\C#OO\SistemaEstoque-OO\SistemaEstoque-OO\obj\Debug\net5.0\SistemaEstoque-OO.genruntimeconfig.cache

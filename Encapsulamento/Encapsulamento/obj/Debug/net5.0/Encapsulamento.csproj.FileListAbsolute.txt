@@ -1,0 +1,16 @@
+C:\C#OO\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.exe
+C:\C#OO\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.deps.json
+C:\C#OO\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.json
+C:\C#OO\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.dev.json
+C:\C#OO\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.dll
+C:\C#OO\Encapsulamento\Encapsulamento\bin\Debug\net5.0\ref\Encapsulamento.dll
+C:\C#OO\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.pdb
+C:\C#OO\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csprojAssemblyReference.cache
+C:\C#OO\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#OO\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\C#OO\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfo.cs
+C:\C#OO\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\C#OO\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.dll
+C:\C#OO\Encapsulamento\Encapsulamento\obj\Debug\net5.0\ref\Encapsulamento.dll
+C:\C#OO\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.pdb
+C:\C#OO\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.genruntimeconfig.cache

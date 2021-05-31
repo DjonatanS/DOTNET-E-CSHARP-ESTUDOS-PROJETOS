@@ -1,0 +1,16 @@
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\bin\Debug\net5.0\Sistema Cad Aluno.exe
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\bin\Debug\net5.0\Sistema Cad Aluno.deps.json
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\bin\Debug\net5.0\Sistema Cad Aluno.runtimeconfig.json
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\bin\Debug\net5.0\Sistema Cad Aluno.runtimeconfig.dev.json
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\bin\Debug\net5.0\Sistema Cad Aluno.dll
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\bin\Debug\net5.0\ref\Sistema Cad Aluno.dll
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\bin\Debug\net5.0\Sistema Cad Aluno.pdb
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\obj\Debug\net5.0\Sistema Cad Aluno.csprojAssemblyReference.cache
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\obj\Debug\net5.0\Sistema Cad Aluno.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\obj\Debug\net5.0\Sistema Cad Aluno.AssemblyInfoInputs.cache
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\obj\Debug\net5.0\Sistema Cad Aluno.AssemblyInfo.cs
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\obj\Debug\net5.0\Sistema Cad Aluno.csproj.CoreCompileInputs.cache
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\obj\Debug\net5.0\Sistema Cad Aluno.dll
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\obj\Debug\net5.0\ref\Sistema Cad Aluno.dll
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\obj\Debug\net5.0\Sistema Cad Aluno.pdb
+F:\C#OO\Sistema Cad Aluno\Sistema Cad Aluno\obj\Debug\net5.0\Sistema Cad Aluno.genruntimeconfig.cache

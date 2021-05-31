@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sistema Cad Aluno/1.0.0": {
+        "runtime": {
+          "Sistema Cad Aluno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema Cad Aluno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

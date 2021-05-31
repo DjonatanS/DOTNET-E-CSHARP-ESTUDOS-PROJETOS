@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema Cad Aluno", "Sistema Cad Aluno\Sistema Cad Aluno.csproj", "{9342D6D9-A015-4A99-A4A1-26648A78E00C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9342D6D9-A015-4A99-A4A1-26648A78E00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9342D6D9-A015-4A99-A4A1-26648A78E00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9342D6D9-A015-4A99-A4A1-26648A78E00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9342D6D9-A015-4A99-A4A1-26648A78E00C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29C7BB9-98BD-4DC1-859E-380B9AA4691B}
+	EndGlobalSection
+EndGlobal

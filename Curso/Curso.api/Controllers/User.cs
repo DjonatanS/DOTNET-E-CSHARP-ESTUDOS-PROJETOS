@@ -21,6 +21,10 @@ namespace Curso.api.Controllers
         [Route("logar")]
         public IActionResult Logar(LoginViewModelInput loginViewModelInput)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(new ValidaCampoViewModelOutput(ModelState.SelectMany(sm => sm.Value.Errors).Select(s => s.ErrorMessage)));
+            }
             return Ok(loginViewModelInput);
         }
 

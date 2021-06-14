@@ -1,4 +1,5 @@
-﻿using Curso.api.Model;
+﻿using Curso.api.Filters;
+using Curso.api.Model;
 using Curso.api.Model.Usuarios;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
@@ -19,18 +20,20 @@ namespace Curso.api.Controllers
 
         [HttpPost]
         [Route("logar")]
+        [ValidacaoModelStateCustomizado]
         public IActionResult Logar(LoginViewModelInput loginViewModelInput)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(new ValidaCampoViewModelOutput(ModelState.SelectMany(sm => sm.Value.Errors).Select(s => s.ErrorMessage)));
-            }
+           // if (!ModelState.IsValid)
+            //{
+             //   return BadRequest(new ValidaCampoViewModelOutput(ModelState.SelectMany(sm => sm.Value.Errors).Select(s => s.ErrorMessage)));
+           // }
             return Ok(loginViewModelInput);
         }
 
 
         [HttpPost]
         [Route("register")]
+        [ValidacaoModelStateCustomizado]
         public IActionResult Registrar(RegistroViewModelInput loginViewModelInput)
         {
             return Created("", loginViewModelInput);

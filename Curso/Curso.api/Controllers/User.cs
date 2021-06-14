@@ -1,5 +1,6 @@
 ﻿using Curso.api.Model.Usuarios;
 using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +12,10 @@ namespace Curso.api.Controllers
     [ApiController]
     public class User : Controller
     {
+
+       
         [HttpPost]
-        [Route("login")]
+        [Route("logar")]
         public IActionResult Logar(LoginViewModelInput loginViewModelInput)
         {
             return Ok(loginViewModelInput);

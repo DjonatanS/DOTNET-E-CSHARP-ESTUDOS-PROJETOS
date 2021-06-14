@@ -27,3 +27,4 @@ F:\C#OO\Curso\Curso.api\obj\Debug\net5.0\Curso.api.dll
 F:\C#OO\Curso\Curso.api\obj\Debug\net5.0\ref\Curso.api.dll
 F:\C#OO\Curso\Curso.api\obj\Debug\net5.0\Curso.api.pdb
 F:\C#OO\Curso\Curso.api\obj\Debug\net5.0\Curso.api.genruntimeconfig.cache
+F:\C#OO\Curso\Curso.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll

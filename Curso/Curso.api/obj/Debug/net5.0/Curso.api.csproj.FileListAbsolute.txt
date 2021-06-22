@@ -28,3 +28,10 @@ F:\C#OO\Curso\Curso.api\obj\Debug\net5.0\ref\Curso.api.dll
 F:\C#OO\Curso\Curso.api\obj\Debug\net5.0\Curso.api.pdb
 F:\C#OO\Curso\Curso.api\obj\Debug\net5.0\Curso.api.genruntimeconfig.cache
 F:\C#OO\Curso\Curso.api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+F:\C#OO\Curso\Curso.api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\C#OO\Curso\Curso.api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C#OO\Curso\Curso.api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\C#OO\Curso\Curso.api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\C#OO\Curso\Curso.api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C#OO\Curso\Curso.api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\C#OO\Curso\Curso.api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,0 +1,15 @@
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\bin\Debug\net6.0\TiposEnumerados.exe
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\bin\Debug\net6.0\TiposEnumerados.deps.json
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\bin\Debug\net6.0\TiposEnumerados.runtimeconfig.json
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\bin\Debug\net6.0\TiposEnumerados.dll
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\bin\Debug\net6.0\ref\TiposEnumerados.dll
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\bin\Debug\net6.0\TiposEnumerados.pdb
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\obj\Debug\net6.0\TiposEnumerados.csproj.AssemblyReference.cache
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\obj\Debug\net6.0\TiposEnumerados.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\obj\Debug\net6.0\TiposEnumerados.AssemblyInfoInputs.cache
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\obj\Debug\net6.0\TiposEnumerados.AssemblyInfo.cs
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\obj\Debug\net6.0\TiposEnumerados.csproj.CoreCompileInputs.cache
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\obj\Debug\net6.0\TiposEnumerados.dll
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\obj\Debug\net6.0\ref\TiposEnumerados.dll
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\obj\Debug\net6.0\TiposEnumerados.pdb
+F:\C#OO\Enumeração e Composição\TiposEnumerados\TiposEnumerados\obj\Debug\net6.0\TiposEnumerados.genruntimeconfig.cache

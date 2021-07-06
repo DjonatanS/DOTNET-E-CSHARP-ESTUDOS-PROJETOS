@@ -1,0 +1,16 @@
+F:\C#OO\Enumeração e Composição\Composição\Composição\bin\Debug\net5.0\Composição.exe
+F:\C#OO\Enumeração e Composição\Composição\Composição\bin\Debug\net5.0\Composição.deps.json
+F:\C#OO\Enumeração e Composição\Composição\Composição\bin\Debug\net5.0\Composição.runtimeconfig.json
+F:\C#OO\Enumeração e Composição\Composição\Composição\bin\Debug\net5.0\Composição.runtimeconfig.dev.json
+F:\C#OO\Enumeração e Composição\Composição\Composição\bin\Debug\net5.0\Composição.dll
+F:\C#OO\Enumeração e Composição\Composição\Composição\bin\Debug\net5.0\ref\Composição.dll
+F:\C#OO\Enumeração e Composição\Composição\Composição\bin\Debug\net5.0\Composição.pdb
+F:\C#OO\Enumeração e Composição\Composição\Composição\obj\Debug\net5.0\Composição.csproj.AssemblyReference.cache
+F:\C#OO\Enumeração e Composição\Composição\Composição\obj\Debug\net5.0\Composição.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Enumeração e Composição\Composição\Composição\obj\Debug\net5.0\Composição.AssemblyInfoInputs.cache
+F:\C#OO\Enumeração e Composição\Composição\Composição\obj\Debug\net5.0\Composição.AssemblyInfo.cs
+F:\C#OO\Enumeração e Composição\Composição\Composição\obj\Debug\net5.0\Composição.csproj.CoreCompileInputs.cache
+F:\C#OO\Enumeração e Composição\Composição\Composição\obj\Debug\net5.0\Composição.dll
+F:\C#OO\Enumeração e Composição\Composição\Composição\obj\Debug\net5.0\ref\Composição.dll
+F:\C#OO\Enumeração e Composição\Composição\Composição\obj\Debug\net5.0\Composição.pdb
+F:\C#OO\Enumeração e Composição\Composição\Composição\obj\Debug\net5.0\Composição.genruntimeconfig.cache

@@ -10,10 +10,10 @@ namespace Composição.Entities
         public double BaseSalary { get; set; }
 
         //Associação entre Classes
-        public Department Department { get; set; } 
+        public Department Department { get; set; }
 
         //Criação Lista de Contratos
-        public List<HourContract> Contracts = new List<HourContract>(); 
+        public List<HourContract> Contracts = new List<HourContract>();
 
         //Construtores
         public Worker()
@@ -37,6 +37,20 @@ namespace Composição.Entities
         public void RemoveContract(HourContract contract)
         {
             Contracts.Remove(contract);
+        }
+
+        public double Income(int year, int month)
+        {
+            double sum = BaseSalary;
+            foreach (HourContract contract in Contracts) //por cada Contrato na lista de contratos
+            {
+                //se o ano do contrato for igual a "year" e se o mes for igual "month" recebido em Income;
+                if (contract.Date.Year == year && contract.Date.Month == month)
+                {
+                    sum += contract.TotalValue();
+                }
+            }
+            return sum;
         }
     }
 }

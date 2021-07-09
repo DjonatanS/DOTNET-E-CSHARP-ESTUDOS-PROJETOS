@@ -8,7 +8,7 @@ namespace Herança
     {
         static void Main(string[] args)
         {
-            Account acc = new Account(10, "dJ", 0);
+            /* Account acc = new Account(10, "dJ", 0);
             BussinesAccount bacc = new BussinesAccount(11, "Joao", 0, 200);
 
             //Upcasting
@@ -32,8 +32,19 @@ namespace Herança
                 SavingsAccount acc6 = (SavingsAccount)acc3;
 
                 acc6.UpdateBalance();
-                Console.WriteLine("Update");
+                Console.WriteLine("Update"); 
             }
+            */
+
+            Account acc1 = new Account(1010, "Dj", 100);
+            Account acc2 = new SavingsAccount(1012, "Cassio", 100, 0);
+
+            acc1.Withdraw(10);
+            acc2.Withdraw(10);
+            Console.WriteLine(acc1.Balance);
+            Console.WriteLine(acc2.Balance);
+
+
         }
     }
 }

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#OO\\Interface\\Interfaces\\Interfaces\\Interfaces.csproj",
-      "projectName": "Interfaces",
-      "projectPath": "F:\\C#OO\\Interface\\Interfaces\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "F:\\C#OO\\Interface\\Interfaces\\Interfaces\\Solução sem interface.csproj",
+      "projectName": "Solução sem interface",
+      "projectPath": "F:\\C#OO\\Interface\\Interfaces\\Interfaces\\Solução sem interface.csproj",
       "packagesPath": "C:\\Users\\Djona\\.nuget\\packages\\",
       "outputPath": "F:\\C#OO\\Interface\\Interfaces\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",

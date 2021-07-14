@@ -1,0 +1,16 @@
+F:\C#OO\Interface\Interfaces\Interfaces\obj\Debug\net5.0\Solução sem interface.csproj.AssemblyReference.cache
+F:\C#OO\Interface\Interfaces\Interfaces\obj\Debug\net5.0\Solução sem interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Interface\Interfaces\Interfaces\obj\Debug\net5.0\Solução sem interface.AssemblyInfoInputs.cache
+F:\C#OO\Interface\Interfaces\Interfaces\obj\Debug\net5.0\Solução sem interface.AssemblyInfo.cs
+F:\C#OO\Interface\Interfaces\Interfaces\obj\Debug\net5.0\Solução sem interface.csproj.CoreCompileInputs.cache
+F:\C#OO\Interface\Interfaces\Interfaces\bin\Debug\net5.0\Solução sem interface.exe
+F:\C#OO\Interface\Interfaces\Interfaces\bin\Debug\net5.0\Solução sem interface.deps.json
+F:\C#OO\Interface\Interfaces\Interfaces\bin\Debug\net5.0\Solução sem interface.runtimeconfig.json
+F:\C#OO\Interface\Interfaces\Interfaces\bin\Debug\net5.0\Solução sem interface.runtimeconfig.dev.json
+F:\C#OO\Interface\Interfaces\Interfaces\bin\Debug\net5.0\Solução sem interface.dll
+F:\C#OO\Interface\Interfaces\Interfaces\bin\Debug\net5.0\ref\Solução sem interface.dll
+F:\C#OO\Interface\Interfaces\Interfaces\bin\Debug\net5.0\Solução sem interface.pdb
+F:\C#OO\Interface\Interfaces\Interfaces\obj\Debug\net5.0\Solução sem interface.dll
+F:\C#OO\Interface\Interfaces\Interfaces\obj\Debug\net5.0\ref\Solução sem interface.dll
+F:\C#OO\Interface\Interfaces\Interfaces\obj\Debug\net5.0\Solução sem interface.pdb
+F:\C#OO\Interface\Interfaces\Interfaces\obj\Debug\net5.0\Solução sem interface.genruntimeconfig.cache

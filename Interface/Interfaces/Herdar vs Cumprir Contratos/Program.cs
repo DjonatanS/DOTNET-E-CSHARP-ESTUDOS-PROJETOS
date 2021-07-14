@@ -7,8 +7,11 @@ namespace Herdar_vs_Cumprir_Contratos
     {
         static void Main(string[] args)
         {
-            Shape shape1 = new Circle() { Radius = 2, Color = Color.White };
-            Shape shape2 = new Retangle() { Width = 5, Height = 4, Color = Color.Black };
+            IShape shape1 = new Circle() { Radius = 2, Color = Color.White };
+            IShape shape2 = new Retangle() { Width = 5, Height = 4, Color = Color.Black };
+            Console.WriteLine(shape1);
+            Console.WriteLine(shape2);
+            
         }
     }
 }

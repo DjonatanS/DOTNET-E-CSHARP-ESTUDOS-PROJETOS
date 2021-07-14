@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace Herdar_vs_Cumprir_Contratos.Model.Entities
 {
-   abstract class Shape
+    abstract class AbstractShape : IShape
     {
         public Color Color { get; set; }
-        
+
         public abstract double Area();
     }
 }

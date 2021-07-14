@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Globalization;
 namespace Herdar_vs_Cumprir_Contratos.Model.Entities
 {
-    class Retangle : Shape
+    class Retangle : AbstractShape
     {
         public double Width { get; set; }
         public double Height { get; set; }

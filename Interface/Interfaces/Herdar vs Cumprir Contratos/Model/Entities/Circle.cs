@@ -4,9 +4,10 @@ using Herdar_vs_Cumprir_Contratos.Model.Enum;
 
 namespace Herdar_vs_Cumprir_Contratos.Model.Entities
 {
-    class Circle : Shape
+    class Circle : AbstractShape
     {
         public double Radius { get; set; }
+        public Color Color { get; internal set; }
 
         public override double Area()
         {

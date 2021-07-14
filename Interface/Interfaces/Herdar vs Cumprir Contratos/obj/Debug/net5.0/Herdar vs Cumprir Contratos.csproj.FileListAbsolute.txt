@@ -1,0 +1,16 @@
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\bin\Debug\net5.0\Herdar vs Cumprir Contratos.exe
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\bin\Debug\net5.0\Herdar vs Cumprir Contratos.deps.json
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\bin\Debug\net5.0\Herdar vs Cumprir Contratos.runtimeconfig.json
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\bin\Debug\net5.0\Herdar vs Cumprir Contratos.runtimeconfig.dev.json
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\bin\Debug\net5.0\Herdar vs Cumprir Contratos.dll
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\bin\Debug\net5.0\ref\Herdar vs Cumprir Contratos.dll
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\bin\Debug\net5.0\Herdar vs Cumprir Contratos.pdb
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\obj\Debug\net5.0\Herdar vs Cumprir Contratos.csproj.AssemblyReference.cache
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\obj\Debug\net5.0\Herdar vs Cumprir Contratos.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\obj\Debug\net5.0\Herdar vs Cumprir Contratos.AssemblyInfoInputs.cache
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\obj\Debug\net5.0\Herdar vs Cumprir Contratos.AssemblyInfo.cs
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\obj\Debug\net5.0\Herdar vs Cumprir Contratos.csproj.CoreCompileInputs.cache
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\obj\Debug\net5.0\Herdar vs Cumprir Contratos.dll
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\obj\Debug\net5.0\ref\Herdar vs Cumprir Contratos.dll
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\obj\Debug\net5.0\Herdar vs Cumprir Contratos.pdb
+F:\C#OO\Interface\Interfaces\Herdar vs Cumprir Contratos\obj\Debug\net5.0\Herdar vs Cumprir Contratos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\bin\Debug\net5.0\Generics.exe
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\bin\Debug\net5.0\Generics.deps.json
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\bin\Debug\net5.0\Generics.dll
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\bin\Debug\net5.0\ref\Generics.dll
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\bin\Debug\net5.0\Generics.pdb
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\obj\Debug\net5.0\Generics.csproj.AssemblyReference.cache
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\obj\Debug\net5.0\Generics.dll
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\obj\Debug\net5.0\ref\Generics.dll
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\obj\Debug\net5.0\Generics.pdb
+F:\C#OO\Generics Sets Dictionary\Generics\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache

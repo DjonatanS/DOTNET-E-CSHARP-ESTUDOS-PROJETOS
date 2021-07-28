@@ -12,6 +12,7 @@ namespace ClassePath
             Console.WriteLine(Path.GetFullPath(path));
             Console.WriteLine(Path.GetFileName(path));
             Console.WriteLine(Path.GetDirectoryName(path));
+           
         }
     }
 }

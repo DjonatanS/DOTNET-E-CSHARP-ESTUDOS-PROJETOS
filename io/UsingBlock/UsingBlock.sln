@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriterr", "StreamWrit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diretorio", "Diretorio\Diretorio.csproj", "{F32D4430-240D-4327-BDFB-FC453C276EAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassePath", "ClassePath\ClassePath.csproj", "{81AF7A65-83A6-49E3-8EF5-2902A037558A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F32D4430-240D-4327-BDFB-FC453C276EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F32D4430-240D-4327-BDFB-FC453C276EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F32D4430-240D-4327-BDFB-FC453C276EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81AF7A65-83A6-49E3-8EF5-2902A037558A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AF7A65-83A6-49E3-8EF5-2902A037558A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AF7A65-83A6-49E3-8EF5-2902A037558A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AF7A65-83A6-49E3-8EF5-2902A037558A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

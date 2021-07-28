@@ -1,0 +1,16 @@
+F:\C#OO\io\UsingBlock\ClassePath\bin\Debug\net5.0\ClassePath.exe
+F:\C#OO\io\UsingBlock\ClassePath\bin\Debug\net5.0\ClassePath.deps.json
+F:\C#OO\io\UsingBlock\ClassePath\bin\Debug\net5.0\ClassePath.runtimeconfig.json
+F:\C#OO\io\UsingBlock\ClassePath\bin\Debug\net5.0\ClassePath.runtimeconfig.dev.json
+F:\C#OO\io\UsingBlock\ClassePath\bin\Debug\net5.0\ClassePath.dll
+F:\C#OO\io\UsingBlock\ClassePath\bin\Debug\net5.0\ref\ClassePath.dll
+F:\C#OO\io\UsingBlock\ClassePath\bin\Debug\net5.0\ClassePath.pdb
+F:\C#OO\io\UsingBlock\ClassePath\obj\Debug\net5.0\ClassePath.csproj.AssemblyReference.cache
+F:\C#OO\io\UsingBlock\ClassePath\obj\Debug\net5.0\ClassePath.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\io\UsingBlock\ClassePath\obj\Debug\net5.0\ClassePath.AssemblyInfoInputs.cache
+F:\C#OO\io\UsingBlock\ClassePath\obj\Debug\net5.0\ClassePath.AssemblyInfo.cs
+F:\C#OO\io\UsingBlock\ClassePath\obj\Debug\net5.0\ClassePath.csproj.CoreCompileInputs.cache
+F:\C#OO\io\UsingBlock\ClassePath\obj\Debug\net5.0\ClassePath.dll
+F:\C#OO\io\UsingBlock\ClassePath\obj\Debug\net5.0\ref\ClassePath.dll
+F:\C#OO\io\UsingBlock\ClassePath\obj\Debug\net5.0\ClassePath.pdb
+F:\C#OO\io\UsingBlock\ClassePath\obj\Debug\net5.0\ClassePath.genruntimeconfig.cache

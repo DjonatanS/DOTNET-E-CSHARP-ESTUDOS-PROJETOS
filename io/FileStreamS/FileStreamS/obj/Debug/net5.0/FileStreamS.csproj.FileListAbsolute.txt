@@ -1,0 +1,16 @@
+F:\C#OO\io\FileStreamS\FileStreamS\bin\Debug\net5.0\FileStreamS.exe
+F:\C#OO\io\FileStreamS\FileStreamS\bin\Debug\net5.0\FileStreamS.deps.json
+F:\C#OO\io\FileStreamS\FileStreamS\bin\Debug\net5.0\FileStreamS.runtimeconfig.json
+F:\C#OO\io\FileStreamS\FileStreamS\bin\Debug\net5.0\FileStreamS.runtimeconfig.dev.json
+F:\C#OO\io\FileStreamS\FileStreamS\bin\Debug\net5.0\FileStreamS.dll
+F:\C#OO\io\FileStreamS\FileStreamS\bin\Debug\net5.0\ref\FileStreamS.dll
+F:\C#OO\io\FileStreamS\FileStreamS\bin\Debug\net5.0\FileStreamS.pdb
+F:\C#OO\io\FileStreamS\FileStreamS\obj\Debug\net5.0\FileStreamS.csproj.AssemblyReference.cache
+F:\C#OO\io\FileStreamS\FileStreamS\obj\Debug\net5.0\FileStreamS.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\io\FileStreamS\FileStreamS\obj\Debug\net5.0\FileStreamS.AssemblyInfoInputs.cache
+F:\C#OO\io\FileStreamS\FileStreamS\obj\Debug\net5.0\FileStreamS.AssemblyInfo.cs
+F:\C#OO\io\FileStreamS\FileStreamS\obj\Debug\net5.0\FileStreamS.csproj.CoreCompileInputs.cache
+F:\C#OO\io\FileStreamS\FileStreamS\obj\Debug\net5.0\FileStreamS.dll
+F:\C#OO\io\FileStreamS\FileStreamS\obj\Debug\net5.0\ref\FileStreamS.dll
+F:\C#OO\io\FileStreamS\FileStreamS\obj\Debug\net5.0\FileStreamS.pdb
+F:\C#OO\io\FileStreamS\FileStreamS\obj\Debug\net5.0\FileStreamS.genruntimeconfig.cache

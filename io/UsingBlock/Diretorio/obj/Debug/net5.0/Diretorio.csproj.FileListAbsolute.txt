@@ -1,0 +1,16 @@
+F:\C#OO\io\UsingBlock\Diretorio\bin\Debug\net5.0\Diretorio.exe
+F:\C#OO\io\UsingBlock\Diretorio\bin\Debug\net5.0\Diretorio.deps.json
+F:\C#OO\io\UsingBlock\Diretorio\bin\Debug\net5.0\Diretorio.runtimeconfig.json
+F:\C#OO\io\UsingBlock\Diretorio\bin\Debug\net5.0\Diretorio.runtimeconfig.dev.json
+F:\C#OO\io\UsingBlock\Diretorio\bin\Debug\net5.0\Diretorio.dll
+F:\C#OO\io\UsingBlock\Diretorio\bin\Debug\net5.0\ref\Diretorio.dll
+F:\C#OO\io\UsingBlock\Diretorio\bin\Debug\net5.0\Diretorio.pdb
+F:\C#OO\io\UsingBlock\Diretorio\obj\Debug\net5.0\Diretorio.csproj.AssemblyReference.cache
+F:\C#OO\io\UsingBlock\Diretorio\obj\Debug\net5.0\Diretorio.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\io\UsingBlock\Diretorio\obj\Debug\net5.0\Diretorio.AssemblyInfoInputs.cache
+F:\C#OO\io\UsingBlock\Diretorio\obj\Debug\net5.0\Diretorio.AssemblyInfo.cs
+F:\C#OO\io\UsingBlock\Diretorio\obj\Debug\net5.0\Diretorio.csproj.CoreCompileInputs.cache
+F:\C#OO\io\UsingBlock\Diretorio\obj\Debug\net5.0\Diretorio.dll
+F:\C#OO\io\UsingBlock\Diretorio\obj\Debug\net5.0\ref\Diretorio.dll
+F:\C#OO\io\UsingBlock\Diretorio\obj\Debug\net5.0\Diretorio.pdb
+F:\C#OO\io\UsingBlock\Diretorio\obj\Debug\net5.0\Diretorio.genruntimeconfig.cache

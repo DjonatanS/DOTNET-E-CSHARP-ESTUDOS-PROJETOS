@@ -1,0 +1,16 @@
+F:\C#OO\io\UsingBlock\UsingBlock\bin\Debug\net5.0\UsingBlock.exe
+F:\C#OO\io\UsingBlock\UsingBlock\bin\Debug\net5.0\UsingBlock.deps.json
+F:\C#OO\io\UsingBlock\UsingBlock\bin\Debug\net5.0\UsingBlock.runtimeconfig.json
+F:\C#OO\io\UsingBlock\UsingBlock\bin\Debug\net5.0\UsingBlock.runtimeconfig.dev.json
+F:\C#OO\io\UsingBlock\UsingBlock\bin\Debug\net5.0\UsingBlock.dll
+F:\C#OO\io\UsingBlock\UsingBlock\bin\Debug\net5.0\ref\UsingBlock.dll
+F:\C#OO\io\UsingBlock\UsingBlock\bin\Debug\net5.0\UsingBlock.pdb
+F:\C#OO\io\UsingBlock\UsingBlock\obj\Debug\net5.0\UsingBlock.csproj.AssemblyReference.cache
+F:\C#OO\io\UsingBlock\UsingBlock\obj\Debug\net5.0\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\io\UsingBlock\UsingBlock\obj\Debug\net5.0\UsingBlock.AssemblyInfoInputs.cache
+F:\C#OO\io\UsingBlock\UsingBlock\obj\Debug\net5.0\UsingBlock.AssemblyInfo.cs
+F:\C#OO\io\UsingBlock\UsingBlock\obj\Debug\net5.0\UsingBlock.csproj.CoreCompileInputs.cache
+F:\C#OO\io\UsingBlock\UsingBlock\obj\Debug\net5.0\UsingBlock.dll
+F:\C#OO\io\UsingBlock\UsingBlock\obj\Debug\net5.0\ref\UsingBlock.dll
+F:\C#OO\io\UsingBlock\UsingBlock\obj\Debug\net5.0\UsingBlock.pdb
+F:\C#OO\io\UsingBlock\UsingBlock\obj\Debug\net5.0\UsingBlock.genruntimeconfig.cache

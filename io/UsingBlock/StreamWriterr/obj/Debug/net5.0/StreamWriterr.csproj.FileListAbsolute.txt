@@ -1,0 +1,16 @@
+F:\C#OO\io\UsingBlock\StreamWriterr\bin\Debug\net5.0\StreamWriterr.exe
+F:\C#OO\io\UsingBlock\StreamWriterr\bin\Debug\net5.0\StreamWriterr.deps.json
+F:\C#OO\io\UsingBlock\StreamWriterr\bin\Debug\net5.0\StreamWriterr.runtimeconfig.json
+F:\C#OO\io\UsingBlock\StreamWriterr\bin\Debug\net5.0\StreamWriterr.runtimeconfig.dev.json
+F:\C#OO\io\UsingBlock\StreamWriterr\bin\Debug\net5.0\StreamWriterr.dll
+F:\C#OO\io\UsingBlock\StreamWriterr\bin\Debug\net5.0\ref\StreamWriterr.dll
+F:\C#OO\io\UsingBlock\StreamWriterr\bin\Debug\net5.0\StreamWriterr.pdb
+F:\C#OO\io\UsingBlock\StreamWriterr\obj\Debug\net5.0\StreamWriterr.csproj.AssemblyReference.cache
+F:\C#OO\io\UsingBlock\StreamWriterr\obj\Debug\net5.0\StreamWriterr.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\io\UsingBlock\StreamWriterr\obj\Debug\net5.0\StreamWriterr.AssemblyInfoInputs.cache
+F:\C#OO\io\UsingBlock\StreamWriterr\obj\Debug\net5.0\StreamWriterr.AssemblyInfo.cs
+F:\C#OO\io\UsingBlock\StreamWriterr\obj\Debug\net5.0\StreamWriterr.csproj.CoreCompileInputs.cache
+F:\C#OO\io\UsingBlock\StreamWriterr\obj\Debug\net5.0\StreamWriterr.dll
+F:\C#OO\io\UsingBlock\StreamWriterr\obj\Debug\net5.0\ref\StreamWriterr.dll
+F:\C#OO\io\UsingBlock\StreamWriterr\obj\Debug\net5.0\StreamWriterr.pdb
+F:\C#OO\io\UsingBlock\StreamWriterr\obj\Debug\net5.0\StreamWriterr.genruntimeconfig.cache

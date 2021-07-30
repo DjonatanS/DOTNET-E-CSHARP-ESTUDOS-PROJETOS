@@ -1,0 +1,16 @@
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.exe
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.deps.json
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.runtimeconfig.json
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.runtimeconfig.dev.json
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.dll
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\bin\Debug\net5.0\ref\CompararObjetos.dll
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.pdb
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.csproj.AssemblyReference.cache
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.AssemblyInfoInputs.cache
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.AssemblyInfo.cs
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.csproj.CoreCompileInputs.cache
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.dll
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\obj\Debug\net5.0\ref\CompararObjetos.dll
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.pdb
+F:\C#OO\Interface\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.genruntimeconfig.cache

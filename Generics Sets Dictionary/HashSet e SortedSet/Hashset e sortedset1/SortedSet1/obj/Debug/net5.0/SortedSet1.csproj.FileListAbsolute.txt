@@ -1,0 +1,16 @@
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\bin\Debug\net5.0\SortedSet1.exe
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\bin\Debug\net5.0\SortedSet1.deps.json
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\bin\Debug\net5.0\SortedSet1.runtimeconfig.json
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\bin\Debug\net5.0\SortedSet1.runtimeconfig.dev.json
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\bin\Debug\net5.0\SortedSet1.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\bin\Debug\net5.0\ref\SortedSet1.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\bin\Debug\net5.0\SortedSet1.pdb
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\obj\Debug\net5.0\SortedSet1.csproj.AssemblyReference.cache
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\obj\Debug\net5.0\SortedSet1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\obj\Debug\net5.0\SortedSet1.AssemblyInfoInputs.cache
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\obj\Debug\net5.0\SortedSet1.AssemblyInfo.cs
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\obj\Debug\net5.0\SortedSet1.csproj.CoreCompileInputs.cache
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\obj\Debug\net5.0\SortedSet1.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\obj\Debug\net5.0\ref\SortedSet1.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\obj\Debug\net5.0\SortedSet1.pdb
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Hashset e sortedset1\SortedSet1\obj\Debug\net5.0\SortedSet1.genruntimeconfig.cache

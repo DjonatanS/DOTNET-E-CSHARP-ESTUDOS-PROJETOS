@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashset e sortedset1", "Hashset e sortedset1\Hashset e sortedset1.csproj", "{E970A9F7-1443-4E66-A4F3-435CD4BBA104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSet1", "SortedSet1\SortedSet1.csproj", "{EAE4FC1A-7501-44B4-B0EA-1788A8C3D47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E970A9F7-1443-4E66-A4F3-435CD4BBA104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E970A9F7-1443-4E66-A4F3-435CD4BBA104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E970A9F7-1443-4E66-A4F3-435CD4BBA104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E970A9F7-1443-4E66-A4F3-435CD4BBA104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE4FC1A-7501-44B4-B0EA-1788A8C3D47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE4FC1A-7501-44B4-B0EA-1788A8C3D47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE4FC1A-7501-44B4-B0EA-1788A8C3D47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE4FC1A-7501-44B4-B0EA-1788A8C3D47A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA44E013-4010-47D7-92B0-6FB411B8508F}
+	EndGlobalSection
+EndGlobal

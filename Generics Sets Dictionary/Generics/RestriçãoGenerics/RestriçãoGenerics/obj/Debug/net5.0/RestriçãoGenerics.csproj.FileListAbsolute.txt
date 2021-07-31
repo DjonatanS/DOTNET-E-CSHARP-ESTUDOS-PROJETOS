@@ -1,0 +1,16 @@
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\bin\Debug\net5.0\RestriçãoGenerics.exe
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\bin\Debug\net5.0\RestriçãoGenerics.deps.json
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\bin\Debug\net5.0\RestriçãoGenerics.runtimeconfig.json
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\bin\Debug\net5.0\RestriçãoGenerics.runtimeconfig.dev.json
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\bin\Debug\net5.0\RestriçãoGenerics.dll
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\bin\Debug\net5.0\ref\RestriçãoGenerics.dll
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\bin\Debug\net5.0\RestriçãoGenerics.pdb
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\obj\Debug\net5.0\RestriçãoGenerics.csproj.AssemblyReference.cache
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\obj\Debug\net5.0\RestriçãoGenerics.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\obj\Debug\net5.0\RestriçãoGenerics.AssemblyInfoInputs.cache
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\obj\Debug\net5.0\RestriçãoGenerics.AssemblyInfo.cs
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\obj\Debug\net5.0\RestriçãoGenerics.csproj.CoreCompileInputs.cache
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\obj\Debug\net5.0\RestriçãoGenerics.dll
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\obj\Debug\net5.0\ref\RestriçãoGenerics.dll
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\obj\Debug\net5.0\RestriçãoGenerics.pdb
+F:\C#OO\Generics Sets Dictionary\Generics\RestriçãoGenerics\RestriçãoGenerics\obj\Debug\net5.0\RestriçãoGenerics.genruntimeconfig.cache

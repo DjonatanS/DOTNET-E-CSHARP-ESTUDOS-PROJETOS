@@ -1,0 +1,16 @@
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\bin\Debug\net5.0\GetHash e Equals.exe
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\bin\Debug\net5.0\GetHash e Equals.deps.json
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\bin\Debug\net5.0\GetHash e Equals.runtimeconfig.json
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\bin\Debug\net5.0\GetHash e Equals.runtimeconfig.dev.json
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\bin\Debug\net5.0\GetHash e Equals.dll
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\bin\Debug\net5.0\ref\GetHash e Equals.dll
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\bin\Debug\net5.0\GetHash e Equals.pdb
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\obj\Debug\net5.0\GetHash e Equals.csproj.AssemblyReference.cache
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\obj\Debug\net5.0\GetHash e Equals.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\obj\Debug\net5.0\GetHash e Equals.AssemblyInfoInputs.cache
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\obj\Debug\net5.0\GetHash e Equals.AssemblyInfo.cs
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\obj\Debug\net5.0\GetHash e Equals.csproj.CoreCompileInputs.cache
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\obj\Debug\net5.0\GetHash e Equals.dll
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\obj\Debug\net5.0\ref\GetHash e Equals.dll
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\obj\Debug\net5.0\GetHash e Equals.pdb
+F:\C#OO\Generics Sets Dictionary\GetHas\GetHash e Equals\GetHash e Equals\obj\Debug\net5.0\GetHash e Equals.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\bin\Debug\net5.0\ExConjuntos.exe
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\bin\Debug\net5.0\ExConjuntos.deps.json
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\bin\Debug\net5.0\ExConjuntos.runtimeconfig.json
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\bin\Debug\net5.0\ExConjuntos.runtimeconfig.dev.json
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\bin\Debug\net5.0\ExConjuntos.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\bin\Debug\net5.0\ref\ExConjuntos.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\bin\Debug\net5.0\ExConjuntos.pdb
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\obj\Debug\net5.0\ExConjuntos.csproj.AssemblyReference.cache
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\obj\Debug\net5.0\ExConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\obj\Debug\net5.0\ExConjuntos.AssemblyInfoInputs.cache
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\obj\Debug\net5.0\ExConjuntos.AssemblyInfo.cs
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\obj\Debug\net5.0\ExConjuntos.csproj.CoreCompileInputs.cache
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\obj\Debug\net5.0\ExConjuntos.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\obj\Debug\net5.0\ref\ExConjuntos.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\obj\Debug\net5.0\ExConjuntos.pdb
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\ExConjuntos\obj\Debug\net5.0\ExConjuntos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\bin\Debug\net5.0\Comparação com HashSet e Equals.exe
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\bin\Debug\net5.0\Comparação com HashSet e Equals.deps.json
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\bin\Debug\net5.0\Comparação com HashSet e Equals.runtimeconfig.json
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\bin\Debug\net5.0\Comparação com HashSet e Equals.runtimeconfig.dev.json
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\bin\Debug\net5.0\Comparação com HashSet e Equals.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\bin\Debug\net5.0\ref\Comparação com HashSet e Equals.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\bin\Debug\net5.0\Comparação com HashSet e Equals.pdb
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\obj\Debug\net5.0\Comparação com HashSet e Equals.csproj.AssemblyReference.cache
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\obj\Debug\net5.0\Comparação com HashSet e Equals.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\obj\Debug\net5.0\Comparação com HashSet e Equals.AssemblyInfoInputs.cache
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\obj\Debug\net5.0\Comparação com HashSet e Equals.AssemblyInfo.cs
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\obj\Debug\net5.0\Comparação com HashSet e Equals.csproj.CoreCompileInputs.cache
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\obj\Debug\net5.0\Comparação com HashSet e Equals.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\obj\Debug\net5.0\ref\Comparação com HashSet e Equals.dll
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\obj\Debug\net5.0\Comparação com HashSet e Equals.pdb
+F:\C#OO\Generics Sets Dictionary\HashSet e SortedSet\Comparação com HashSet e Equals\Comparação com HashSet e Equals\obj\Debug\net5.0\Comparação com HashSet e Equals.genruntimeconfig.cache

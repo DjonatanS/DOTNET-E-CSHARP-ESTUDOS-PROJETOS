@@ -1,0 +1,16 @@
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.exe
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.dll
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.dll
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+F:\C#OO\Generics Sets Dictionary\Dictionary\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache

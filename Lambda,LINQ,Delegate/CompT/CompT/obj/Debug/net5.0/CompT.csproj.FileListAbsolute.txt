@@ -1,0 +1,16 @@
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\bin\Debug\net5.0\CompT.exe
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\bin\Debug\net5.0\CompT.deps.json
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\bin\Debug\net5.0\CompT.runtimeconfig.json
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\bin\Debug\net5.0\CompT.runtimeconfig.dev.json
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\bin\Debug\net5.0\CompT.dll
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\bin\Debug\net5.0\ref\CompT.dll
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\bin\Debug\net5.0\CompT.pdb
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\obj\Debug\net5.0\CompT.csproj.AssemblyReference.cache
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\obj\Debug\net5.0\CompT.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\obj\Debug\net5.0\CompT.AssemblyInfoInputs.cache
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\obj\Debug\net5.0\CompT.AssemblyInfo.cs
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\obj\Debug\net5.0\CompT.csproj.CoreCompileInputs.cache
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\obj\Debug\net5.0\CompT.dll
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\obj\Debug\net5.0\ref\CompT.dll
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\obj\Debug\net5.0\CompT.pdb
+F:\C#OO\Lambda,LINQ,Delegate\CompT\CompT\obj\Debug\net5.0\CompT.genruntimeconfig.cache

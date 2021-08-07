@@ -7,7 +7,7 @@ using System.Globalization;
 
 namespace CompT.Entities
 {
-    class Product: IComparable<Product>
+    class Product
     {
         public string Name { get; set; }
         public double Price { get; set; }
@@ -19,10 +19,7 @@ namespace CompT.Entities
             Price = price;
         }
 
-        public int CompareTo(Product other)
-        {
-            return Name.ToUpper().CompareTo(other.Name.ToUpper()); 
-        }
+        
 
         public override string ToString()
         {

@@ -1,0 +1,16 @@
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\bin\Debug\net5.0\IntroDelegate.exe
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\bin\Debug\net5.0\IntroDelegate.deps.json
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\bin\Debug\net5.0\IntroDelegate.runtimeconfig.json
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\bin\Debug\net5.0\IntroDelegate.runtimeconfig.dev.json
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\bin\Debug\net5.0\IntroDelegate.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\bin\Debug\net5.0\ref\IntroDelegate.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\bin\Debug\net5.0\IntroDelegate.pdb
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\obj\Debug\net5.0\IntroDelegate.csproj.AssemblyReference.cache
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\obj\Debug\net5.0\IntroDelegate.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\obj\Debug\net5.0\IntroDelegate.AssemblyInfoInputs.cache
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\obj\Debug\net5.0\IntroDelegate.AssemblyInfo.cs
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\obj\Debug\net5.0\IntroDelegate.csproj.CoreCompileInputs.cache
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\obj\Debug\net5.0\IntroDelegate.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\obj\Debug\net5.0\ref\IntroDelegate.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\obj\Debug\net5.0\IntroDelegate.pdb
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\IntroDelegate\IntroDelegate\obj\Debug\net5.0\IntroDelegate.genruntimeconfig.cache

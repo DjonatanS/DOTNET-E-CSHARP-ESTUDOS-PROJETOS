@@ -1,0 +1,16 @@
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\bin\Debug\net5.0\PredicateT.exe
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\bin\Debug\net5.0\PredicateT.deps.json
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\bin\Debug\net5.0\PredicateT.runtimeconfig.json
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\bin\Debug\net5.0\PredicateT.runtimeconfig.dev.json
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\bin\Debug\net5.0\PredicateT.dll
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\bin\Debug\net5.0\ref\PredicateT.dll
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\bin\Debug\net5.0\PredicateT.pdb
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\obj\Debug\net5.0\PredicateT.csproj.AssemblyReference.cache
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\obj\Debug\net5.0\PredicateT.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\obj\Debug\net5.0\PredicateT.AssemblyInfoInputs.cache
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\obj\Debug\net5.0\PredicateT.AssemblyInfo.cs
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\obj\Debug\net5.0\PredicateT.csproj.CoreCompileInputs.cache
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\obj\Debug\net5.0\PredicateT.dll
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\obj\Debug\net5.0\ref\PredicateT.dll
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\obj\Debug\net5.0\PredicateT.pdb
+F:\C#OO\Lambda,LINQ,Delegate\Predicate\PredicateT\PredicateT\obj\Debug\net5.0\PredicateT.genruntimeconfig.cache

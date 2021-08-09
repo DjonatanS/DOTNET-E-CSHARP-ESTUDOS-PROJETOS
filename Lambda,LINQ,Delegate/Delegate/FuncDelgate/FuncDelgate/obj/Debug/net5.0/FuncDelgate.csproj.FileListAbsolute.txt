@@ -1,0 +1,16 @@
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\bin\Debug\net5.0\FuncDelgate.exe
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\bin\Debug\net5.0\FuncDelgate.deps.json
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\bin\Debug\net5.0\FuncDelgate.runtimeconfig.json
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\bin\Debug\net5.0\FuncDelgate.runtimeconfig.dev.json
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\bin\Debug\net5.0\FuncDelgate.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\bin\Debug\net5.0\ref\FuncDelgate.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\bin\Debug\net5.0\FuncDelgate.pdb
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\obj\Debug\net5.0\FuncDelgate.csproj.AssemblyReference.cache
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\obj\Debug\net5.0\FuncDelgate.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\obj\Debug\net5.0\FuncDelgate.AssemblyInfoInputs.cache
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\obj\Debug\net5.0\FuncDelgate.AssemblyInfo.cs
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\obj\Debug\net5.0\FuncDelgate.csproj.CoreCompileInputs.cache
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\obj\Debug\net5.0\FuncDelgate.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\obj\Debug\net5.0\ref\FuncDelgate.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\obj\Debug\net5.0\FuncDelgate.pdb
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\FuncDelgate\FuncDelgate\obj\Debug\net5.0\FuncDelgate.genruntimeconfig.cache

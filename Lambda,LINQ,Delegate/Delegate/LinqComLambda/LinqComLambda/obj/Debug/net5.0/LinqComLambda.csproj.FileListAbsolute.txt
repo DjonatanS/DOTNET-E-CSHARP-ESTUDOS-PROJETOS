@@ -1,0 +1,16 @@
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\bin\Debug\net5.0\LinqComLambda.exe
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\bin\Debug\net5.0\LinqComLambda.deps.json
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\bin\Debug\net5.0\LinqComLambda.runtimeconfig.json
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\bin\Debug\net5.0\LinqComLambda.runtimeconfig.dev.json
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\bin\Debug\net5.0\LinqComLambda.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\bin\Debug\net5.0\ref\LinqComLambda.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\bin\Debug\net5.0\LinqComLambda.pdb
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\obj\Debug\net5.0\LinqComLambda.csproj.AssemblyReference.cache
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\obj\Debug\net5.0\LinqComLambda.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\obj\Debug\net5.0\LinqComLambda.AssemblyInfoInputs.cache
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\obj\Debug\net5.0\LinqComLambda.AssemblyInfo.cs
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\obj\Debug\net5.0\LinqComLambda.csproj.CoreCompileInputs.cache
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\obj\Debug\net5.0\LinqComLambda.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\obj\Debug\net5.0\ref\LinqComLambda.dll
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\obj\Debug\net5.0\LinqComLambda.pdb
+F:\C#OO\Lambda,LINQ,Delegate\Delegate\LinqComLambda\LinqComLambda\obj\Debug\net5.0\LinqComLambda.genruntimeconfig.cache

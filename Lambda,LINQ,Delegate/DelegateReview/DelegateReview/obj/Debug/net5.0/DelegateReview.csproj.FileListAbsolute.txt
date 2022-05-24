@@ -1,0 +1,16 @@
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\bin\Debug\net5.0\DelegateReview.exe
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\bin\Debug\net5.0\DelegateReview.deps.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\bin\Debug\net5.0\DelegateReview.runtimeconfig.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\bin\Debug\net5.0\DelegateReview.runtimeconfig.dev.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\bin\Debug\net5.0\DelegateReview.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\bin\Debug\net5.0\DelegateReview.pdb
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\obj\Debug\net5.0\DelegateReview.csproj.AssemblyReference.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\obj\Debug\net5.0\DelegateReview.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\obj\Debug\net5.0\DelegateReview.AssemblyInfoInputs.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\obj\Debug\net5.0\DelegateReview.AssemblyInfo.cs
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\obj\Debug\net5.0\DelegateReview.csproj.CoreCompileInputs.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\obj\Debug\net5.0\DelegateReview.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\obj\Debug\net5.0\refint\DelegateReview.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\obj\Debug\net5.0\DelegateReview.pdb
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\obj\Debug\net5.0\DelegateReview.genruntimeconfig.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\DelegateReview\DelegateReview\obj\Debug\net5.0\ref\DelegateReview.dll

@@ -1,0 +1,16 @@
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\bin\Debug\net5.0\Interface.exe
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\bin\Debug\net5.0\Interface.deps.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\bin\Debug\net5.0\Interface.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\bin\Debug\net5.0\Interface.pdb
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\obj\Debug\net5.0\Interface.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\obj\Debug\net5.0\refint\Interface.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\obj\Debug\net5.0\Interface.pdb
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Lambda,LINQ,Delegate\Interface\obj\Debug\net5.0\ref\Interface.dll

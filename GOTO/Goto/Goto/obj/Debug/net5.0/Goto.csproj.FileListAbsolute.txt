@@ -1,0 +1,16 @@
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\bin\Debug\net5.0\Goto.exe
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\bin\Debug\net5.0\Goto.deps.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\bin\Debug\net5.0\Goto.runtimeconfig.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\bin\Debug\net5.0\Goto.runtimeconfig.dev.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\bin\Debug\net5.0\Goto.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\bin\Debug\net5.0\Goto.pdb
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\obj\Debug\net5.0\Goto.csproj.AssemblyReference.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\obj\Debug\net5.0\Goto.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\obj\Debug\net5.0\Goto.AssemblyInfoInputs.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\obj\Debug\net5.0\Goto.AssemblyInfo.cs
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\obj\Debug\net5.0\Goto.csproj.CoreCompileInputs.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\obj\Debug\net5.0\Goto.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\obj\Debug\net5.0\refint\Goto.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\obj\Debug\net5.0\Goto.pdb
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\obj\Debug\net5.0\Goto.genruntimeconfig.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\GOTO\Goto\Goto\obj\Debug\net5.0\ref\Goto.dll

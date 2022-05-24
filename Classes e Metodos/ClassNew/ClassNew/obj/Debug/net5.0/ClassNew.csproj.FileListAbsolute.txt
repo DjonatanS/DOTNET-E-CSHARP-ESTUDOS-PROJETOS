@@ -1,0 +1,16 @@
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\bin\Debug\net5.0\ClassNew.exe
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\bin\Debug\net5.0\ClassNew.deps.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\bin\Debug\net5.0\ClassNew.runtimeconfig.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\bin\Debug\net5.0\ClassNew.runtimeconfig.dev.json
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\bin\Debug\net5.0\ClassNew.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\bin\Debug\net5.0\ClassNew.pdb
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\obj\Debug\net5.0\ClassNew.csproj.AssemblyReference.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\obj\Debug\net5.0\ClassNew.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\obj\Debug\net5.0\ClassNew.AssemblyInfoInputs.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\obj\Debug\net5.0\ClassNew.AssemblyInfo.cs
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\obj\Debug\net5.0\ClassNew.csproj.CoreCompileInputs.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\obj\Debug\net5.0\ClassNew.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\obj\Debug\net5.0\refint\ClassNew.dll
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\obj\Debug\net5.0\ClassNew.pdb
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\obj\Debug\net5.0\ClassNew.genruntimeconfig.cache
+F:\DOTNET-E-CSHARP-ESTUDOS-PROJETOS\Classes e Metodos\ClassNew\ClassNew\obj\Debug\net5.0\ref\ClassNew.dll
